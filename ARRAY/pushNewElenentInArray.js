@@ -1,3 +1,3 @@
-let city = ["siwan","ambala","mullana"]
+let city = ["siwan","ambala","mullana","chhapra"]
 city.push("patna");
 console.log(city);
